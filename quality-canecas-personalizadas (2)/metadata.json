@@ -1,0 +1,6 @@
+{
+  "name": "Quality Canecas Personalizadas",
+  "description": "Landing page premium, elegante e moderna para a Quality Canecas Personalizadas, inspirada na estética da caneca imperial branca com detalhes em ouro metálico.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
